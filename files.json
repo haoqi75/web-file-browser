@@ -1,0 +1,28 @@
+{
+    "files": [
+        {
+            "name": "Folder",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "files.txt",
+                    "type": "file",
+                    "size": "1. B",
+                    "url": "https://example.com/path/of/your/files.txt"
+                },
+                {
+                    "name": "files.mp3",
+                    "type": "file",
+                    "size": "1. B",
+                    "url": "https://example.com/path/of/your/files.mp3"
+                }
+            ]
+        },
+        {
+            "name": "GitHub.url",
+            "type": "file",
+            "size": "1 B",
+            "url": "https://github.com/haoqi75/web-file-browser"
+        }
+    ]
+}
